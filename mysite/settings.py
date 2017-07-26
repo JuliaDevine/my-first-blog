@@ -25,7 +25,7 @@ SECRET_KEY = 'xul4+%y&8g8pmy9v3+-mnlvec3t-x9#lbo!ejc_uert8vpzhlh'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<juliadevine>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'juliadevine.pythonanywhere.com']
 
 
 # Application definition
